@@ -4,7 +4,7 @@ Responsive layout from Figma https://www.figma.com/file/2rFcXFe1uz76IA2lIjcHJi/B
 
 ### Link to access:
 
-
+https://webpage-bite-alexandra-kononenko.netlify.app/
 
 ### Technologies used:
 
