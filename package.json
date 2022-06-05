@@ -1,0 +1,17 @@
+{
+  "name": "BITE",
+  "source": "src/index.html",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --no-source-maps --no-minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  }
+}
